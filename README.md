@@ -17,6 +17,6 @@ Implementation of an adaptive DVFS governor based on **MIMO Recursive Least Squa
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mimo-rls-lqr-governor.git
+git clone https://github.com/Apuoxo/mimo-rls-lqr-governor.git
 cd mimo-rls-lqr-governor
 pip install -r requirements.txt
